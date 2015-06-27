@@ -1,0 +1,23 @@
+{
+  "name": "slm-browser",
+  "version": "1.0.0",
+  "description": "= Slm in the browser",
+  "main": "main.js",
+  "dependencies": {
+    "slm": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mogztter/slm-browser.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mogztter/slm-browser/issues"
+  },
+  "homepage": "https://github.com/Mogztter/slm-browser"
+}
